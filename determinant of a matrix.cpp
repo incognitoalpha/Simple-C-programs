@@ -46,6 +46,6 @@
 			printf("\n");
 			d*= A[i][i]; //for a triangularised matrix it's determinant is the product of the diagonal elements
 		}
-		printf("\n The determinant of the matrix is : %.1f",d);
+		printf("\n The determinant of the matrix is : %.1f");
 		getch();	
 	}
